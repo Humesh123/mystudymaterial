@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/mystudymaterial/static/css/main.9fb135f9.chunk.css",
+    "main.js": "/mystudymaterial/static/js/main.681a482e.chunk.js",
+    "main.js.map": "/mystudymaterial/static/js/main.681a482e.chunk.js.map",
+    "runtime-main.js": "/mystudymaterial/static/js/runtime-main.94669ede.js",
+    "runtime-main.js.map": "/mystudymaterial/static/js/runtime-main.94669ede.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/mystudymaterial/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.029046d0.chunk.js": "/mystudymaterial/static/js/2.029046d0.chunk.js",
+    "static/js/2.029046d0.chunk.js.map": "/mystudymaterial/static/js/2.029046d0.chunk.js.map",
+    "index.html": "/mystudymaterial/index.html",
+    "precache-manifest.4e97f1774b549033cd59b0490df8b802.js": "/mystudymaterial/precache-manifest.4e97f1774b549033cd59b0490df8b802.js",
+    "service-worker.js": "/mystudymaterial/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/mystudymaterial/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.9fb135f9.chunk.css.map": "/mystudymaterial/static/css/main.9fb135f9.chunk.css.map",
+    "static/js/2.029046d0.chunk.js.LICENSE.txt": "/mystudymaterial/static/js/2.029046d0.chunk.js.LICENSE.txt",
+    "static/media/android.jpg": "/mystudymaterial/static/media/android.645f0618.jpg",
+    "static/media/code.jpg": "/mystudymaterial/static/media/code.a3a8ede7.jpg",
+    "static/media/dashboard.jpg": "/mystudymaterial/static/media/dashboard.a8f3db07.jpg",
+    "static/media/python.jpg": "/mystudymaterial/static/media/python.5ecf1ab8.jpg",
+    "static/media/study.jpg": "/mystudymaterial/static/media/study.9474df2e.jpg",
+    "static/media/web.svg": "/mystudymaterial/static/media/web.91a06d8a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94669ede.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.029046d0.chunk.js",
+    "static/css/main.9fb135f9.chunk.css",
+    "static/js/main.681a482e.chunk.js"
+  ]
+}
